@@ -21,5 +21,5 @@ calculateBtn.addEventListener('click', function() {
         category = 'Obesity';
     }
 
-    myDiv.innerHTML = `Your BMI is ${fixBmi}. You are ${category}.`;
+    myDiv.innerHTML = `Your BMI is ${fixBmi}. Which means You are ${category}.`;
 });
