@@ -23,6 +23,12 @@ body {
     margin-top: 50px;
     font-size: 30px;
     color: #FFF;
+    margin-bottom: 3px;
+}
+
+.lbl p {
+    font-size: 14px;
+    color: #FFF;
 }
 
 .container {
@@ -37,6 +43,8 @@ body {
 label {
     display: block;
     margin-bottom: 10px;
+    text-align: left;
+    margin-left: 20px;
 }
 
 .container input {
